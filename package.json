@@ -1,0 +1,29 @@
+{
+  "name": "slush-futose",
+  "version": "0.0.1",
+  "description": "Slush generator for github.com/kompot/futose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/kompot/slush-futose"
+  },
+  "keywords": [
+    "slushgenerator"
+  ],
+  "author": "Anton Fedchenko <kompotik@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kompot/slush-futose/issues"
+  },
+  "homepage": "https://github.com/kompot/slush-futose",
+  "devDependencies": {
+    "gulp": "^3.8.6",
+    "gulp-conflict": "^0.1.2",
+    "gulp-install": "^0.1.8",
+    "gulp-template": "^0.1.1",
+    "inquirer": "^0.5.1"
+  }
+}
